@@ -46,6 +46,7 @@ const Calculator = () => {
 		setDisabled('disabled');
 		setAmount('0.00');
 		setTotal('0.00');
+		setErrors({ ...errors, bill: false, tips: false, person: false });
 	};
 
 	const changeTip = e => {

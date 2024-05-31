@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/tip-calculator-app-lMD_rtUjuv)
 - Live Site URL: [Live Site](https://tip-calculator-main-tan.vercel.app/)
 
 ## My process
